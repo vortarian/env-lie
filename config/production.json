@@ -1,0 +1,6 @@
+{
+  "config": {
+	  "production": true,
+	  "env": "production"
+  }
+}

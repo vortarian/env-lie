@@ -1,0 +1,13 @@
+{
+  "config": {
+	  "local": false,
+	  "production": false,
+	  "prod": false,
+	  "staging": false,
+	  "stage": false,
+	  "development": false,
+	  "dev": false,
+	  "acceptance": false,
+	  "acc": false
+  }
+}

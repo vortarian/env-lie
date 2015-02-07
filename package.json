@@ -1,0 +1,23 @@
+{
+  "name": "env-lie",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Envible Lie!",
+  "main": "app.js",
+  "scripts": {
+    "start": "./bin/start.sh",
+    "test": "./bin/gulpme test",
+    "preinstall": "./bin/build.sh",
+    "postinstall": "./bin/postinstall.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vortarian/env-lie"
+  },
+  "author": "NIN Rocks!",
+  "homepage": "https://github.com/vortarian/env-lie",
+  "dependencies": {
+    "config": "^1.9.0",
+    "express": "^4.10.2"
+  }
+}

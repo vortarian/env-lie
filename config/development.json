@@ -1,0 +1,6 @@
+{
+  "config": {
+	  "development": true,
+	  "env": "development"
+  }
+}

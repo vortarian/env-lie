@@ -1,0 +1,6 @@
+{
+  "config": {
+	  "staging": true,
+	  "env": "staging"
+  }
+}

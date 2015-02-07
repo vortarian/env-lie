@@ -1,0 +1,6 @@
+{
+  "config" : {
+	  "acceptance": true,
+	  "env": "acceptance - never set due to NODE_ENV override"
+  }
+}

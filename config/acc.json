@@ -1,0 +1,6 @@
+{
+  "config": {
+	  "acc": true,
+	  "env": "acc - never set due to NODE_ENV override"
+  }
+}
